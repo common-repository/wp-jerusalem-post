@@ -1,0 +1,9 @@
+div.jerusalempost-feed { }
+div.jerusalempost-feed ul li {
+	list-style-type: none;
+	list-style: none;
+	padding-bottom: 10px;
+	}
+div.jerusalempost-feed ul li a { font-weight: bold; }
+div.jerusalempost-feed ul li img { float: left; margin: 5px 10px 5px 0; }
+div.jerusalempost-feed ul li span { font-size: 10px; }
